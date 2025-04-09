@@ -2,11 +2,10 @@
 
 # Team Members
 - Neel Manishkumar Patel
--
--
--
+- Mahi Dharmeshkumar Patel
+- Pratham Ghanshyambhai Patel
 
-This is a simple backend project built using Node.js, Express, and MongoDB. The goal of this microproject was to implement the **CREATE** operation from the CRUD functionality using the MEN (MongoDB, Express, Node.js) stack.
+# This is a simple backend project built using Node.js, Express, and MongoDB. The goal of this microproject was to implement the **CREATE** operation from the CRUD functionality using the MEN (MongoDB, Express, Node.js) stack.
 
 ## What We Did
 
